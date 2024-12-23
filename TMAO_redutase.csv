@@ -1,0 +1,501 @@
+specie;genus;phylum;protein_name;aa_quantity;gene_name_locus_tag;gene_position;link;gene_genome
+Achromobacter_deleyi;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;837;torA;6137232..6139745;https://www.ncbi.nlm.nih.gov/protein/QQB34328.1;https://www.ncbi.nlm.nih.gov/nuccore/1948614726
+Achromobacter_deleyi;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Achromobacter_dolens;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;841;torA;66894..69419;https://www.ncbi.nlm.nih.gov/protein/WP_054504035.1;https://www.ncbi.nlm.nih.gov/nuccore/935691340
+Achromobacter_dolens;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Achromobacter_insuavis;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;837;torA;827..3340;https://www.ncbi.nlm.nih.gov/protein/WP_006394215.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAJLPH010000131.1
+Achromobacter_insuavis;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Achromobacter_ruhlandii;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;841;torA;24822..27347;https://www.ncbi.nlm.nih.gov/protein/WP_049074707.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CADILJ010000062.1
+Achromobacter_ruhlandii;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Achromobacter_xylosoxidans;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;837;torA;7267..9780;https://www.ncbi.nlm.nih.gov/protein/WP_006384799.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_GL635993.1
+Achromobacter_xylosoxidans;Achromobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Actinobacillus_equuli;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;torA;1889883..1892366;https://www.ncbi.nlm.nih.gov/protein/WGE43981.1;https://www.ncbi.nlm.nih.gov/nuccore/2489123146
+Actinobacillus_equuli;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Actinobacillus_lignieresii;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;torA;NA;https://www.ncbi.nlm.nih.gov/protein/WP_115590145.1;https://www.ncbi.nlm.nih.gov/nuccore/1444975095
+Actinobacillus_lignieresii;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Actinobacillus_pleuropneumoniae;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;torA;9236..11710;https://www.ncbi.nlm.nih.gov/protein/WP_005597019.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAZDVJ010000061.1
+Actinobacillus_pleuropneumoniae;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;824;torZ;891610..894084;https://www.ncbi.nlm.nih.gov/protein/2006613542;https://www.ncbi.nlm.nih.gov/nuccore/CP026009.1
+Actinobacillus_porcinus;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;26485..28950;https://www.ncbi.nlm.nih.gov/protein/WP_135709162.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CAMEEL010000014.1
+Actinobacillus_porcinus;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Actinobacillus_seminis;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;829;CFY87_10695;31773..34262;https://www.ncbi.nlm.nih.gov/protein/OZN24153.1;https://www.ncbi.nlm.nih.gov/nuccore/1234791466
+Actinobacillus_seminis;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Actinobacillus_succinogenes;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;CBG46_00740;164748..167225;https://www.ncbi.nlm.nih.gov/protein/PHI39305.1;https://www.ncbi.nlm.nih.gov/nuccore/1267601846
+Actinobacillus_succinogenes;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Actinobacillus_suis;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;torA;9216..11690;https://www.ncbi.nlm.nih.gov/protein/WP_014991462.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_MTBX01000080.1
+Actinobacillus_suis;Actinobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aeromonas_allosaccharophila;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;54115..56595;https://www.ncbi.nlm.nih.gov/protein/WP_042063813.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CDCB01000128.1
+Aeromonas_allosaccharophila;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aeromonas_caviae;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;9366..11846;https://www.ncbi.nlm.nih.gov/protein/WP_039041037.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JWJP01000049.1
+Aeromonas_caviae;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aeromonas_dhakensis;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;830;torA;6642..9134;https://www.ncbi.nlm.nih.gov/protein/WP_005298055.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JDWD01000190.1
+Aeromonas_dhakensis;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aeromonas_hydrophila;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;11293..13773;https://www.ncbi.nlm.nih.gov/protein/WP_011707716.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAGDEM010000006.1
+Aeromonas_hydrophila;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;826;torZ;158472..160952;https://www.ncbi.nlm.nih.gov/protein/1548939682;https://www.ncbi.nlm.nih.gov/nuccore/CP028418.1
+Aeromonas_jandaei;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;158407..160887;https://www.ncbi.nlm.nih.gov/protein/WP_041209568.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JFDL01000007.1
+Aeromonas_jandaei;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aeromonas_media;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;830;torA;141686..144178;https://www.ncbi.nlm.nih.gov/protein/WP_005326571.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CAWRFI010000111.1
+Aeromonas_media;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aeromonas_salmonicida;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;9682..12162;https://www.ncbi.nlm.nih.gov/protein/WP_005318522.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAFBAV010000080.1
+Aeromonas_salmonicida;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;826;O23A_p3974;4214919..4217399;https://www.ncbi.nlm.nih.gov/protein/ARW84711.1;https://www.ncbi.nlm.nih.gov/nuccore/1202187378
+Aeromonas_veronii;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;363732..366212;https://www.ncbi.nlm.nih.gov/protein/WP_005339845.1;https://www.ncbi.nlm.nih.gov/nuccore/423202914
+Aeromonas_veronii;Aeromonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;826;torZ;488801..491281;https://www.ncbi.nlm.nih.gov/protein/1789359650;https://www.ncbi.nlm.nih.gov/nuccore/CABWLC010000020.1
+Afifella_marina;Afifella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;832;torA;15981..18479;https://www.ncbi.nlm.nih.gov/protein/WP_092815998.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_NHSC01000018.1
+Afifella_marina;Afifella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aggregatibacter_actinomycetemcomitans;Aggregatibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;4999..7479;https://www.ncbi.nlm.nih.gov/protein/WP_005542142.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JABJYZ010000030.1
+Aggregatibacter_actinomycetemcomitans;Aggregatibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aggregatibacter_aphrophilus;Aggregatibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;186153..188633;https://www.ncbi.nlm.nih.gov/protein/WP_005700557.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CAUTUO010000002.1
+Aggregatibacter_aphrophilus;Aggregatibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aggregatibacter_kilianii;Aggregatibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;174901..177381;https://www.ncbi.nlm.nih.gov/protein/WP_109063995.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_NRCR01000004.1
+Aggregatibacter_kilianii;Aggregatibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aggregatibacter_segnis;Aggregatibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;103697..106177;https://www.ncbi.nlm.nih.gov/protein/WP_111305735.1;https://www.ncbi.nlm.nih.gov/nuccore/1407829044
+Aggregatibacter_segnis;Aggregatibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aliarcobacter_butzleri;Aliarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;torA;287677..290160;https://www.ncbi.nlm.nih.gov/protein/WP_004509329.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_GL622205.1
+Aliarcobacter_butzleri;Aliarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aliarcobacter_cryaerophilus;Aliarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;CJ669_05605;13014..15494;https://www.ncbi.nlm.nih.gov/protein/PRM87912.1;https://www.ncbi.nlm.nih.gov/nuccore/1357401641
+Aliarcobacter_cryaerophilus;Aliarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aliarcobacter_trophiarum;Aliarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;CRU89_02460;31341..33821;https://www.ncbi.nlm.nih.gov/protein/RXI28067.1;https://www.ncbi.nlm.nih.gov/nuccore/1562694195
+Aliarcobacter_trophiarum;Aliarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aliiruegeria_lutimaris;Aliiruegeria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;29773..32244;https://www.ncbi.nlm.nih.gov/protein/WP_093153651.1;https://www.ncbi.nlm.nih.gov/nuccore/1225152768
+Aliiruegeria_lutimaris;Aliiruegeria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aliivibrio_finisterrensis;Aliivibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;125797..128259;https://www.ncbi.nlm.nih.gov/protein/RYU47584.1;https://www.ncbi.nlm.nih.gov/nuccore/1570953651
+Aliivibrio_finisterrensis;Aliivibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Aliivibrio_fischeri;Aliivibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;156446..158908;https://www.ncbi.nlm.nih.gov/protein/WP_005422247.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CVOI01000006.1
+Aliivibrio_fischeri;Aliivibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;817;torZ;26668..29121;https://www.ncbi.nlm.nih.gov/protein/GEK14582.1;https://www.ncbi.nlm.nih.gov/nuccore/1714287330
+Avibacterium_paragallinarum;Avibacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;DM482_05050;34902..37373;https://www.ncbi.nlm.nih.gov/protein/PXZ39317.1;https://www.ncbi.nlm.nih.gov/nuccore/1398641696
+Avibacterium_paragallinarum;Avibacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Azospirillum_argentinense;Azospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;815;C1S70_27445;6449..8896;https://www.ncbi.nlm.nih.gov/protein/PNQ95714.1;https://www.ncbi.nlm.nih.gov/nuccore/1333324522
+Azospirillum_argentinense;Azospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Azospirillum_brasilense;Azospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;12787..15255;https://www.ncbi.nlm.nih.gov/protein/WP_114860713.1;https://www.ncbi.nlm.nih.gov/nuccore/1441238739
+Azospirillum_brasilense;Azospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Azospirillum_humicireducens;Azospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;NA;https://www.ncbi.nlm.nih.gov/protein/WP_236783889.1;https://www.ncbi.nlm.nih.gov/nuccore/1383410853
+Azospirillum_humicireducens;Azospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Azospirillum_thermophilum;Azospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;814;torA;147958..150402;https://www.ncbi.nlm.nih.gov/protein/WP_168220517.1;https://www.ncbi.nlm.nih.gov/nuccore/1391144733
+Azospirillum_thermophilum;Azospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Bartonella_apihabitans;Bartonella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;834;torA;80817..83321;https://www.ncbi.nlm.nih.gov/protein/WP_198237379.1;https://www.ncbi.nlm.nih.gov/nuccore/1946639387
+Bartonella_apihabitans;Bartonella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Bartonella_apis;Bartonella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;834;torA;3184..5688;https://www.ncbi.nlm.nih.gov/protein/WP_075870632.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CAMLCQ010000060.1
+Bartonella_apis;Bartonella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Bibersteinia_trehalosi;Bibersteinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;86265..88736;https://www.ncbi.nlm.nih.gov/protein/WP_064317911.1;https://www.ncbi.nlm.nih.gov/nuccore/1032812305
+Bibersteinia_trehalosi;Bibersteinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Breoghania_corrubedonensis;Breoghania;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;309015..311492;https://www.ncbi.nlm.nih.gov/protein/WP_107989892.1;https://www.ncbi.nlm.nih.gov/nuccore/1382122221
+Breoghania_corrubedonensis;Breoghania;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Budvicia_aquatica;Budvicia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;840;torA;60694..63216;https://www.ncbi.nlm.nih.gov/protein/WP_029094855.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_ATYS01000028.1
+Budvicia_aquatica;Budvicia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Budvicia_diplopodorum;Budvicia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;torA;14266..16749;https://www.ncbi.nlm.nih.gov/protein/WP_159566282.1;https://www.ncbi.nlm.nih.gov/nuccore/1798352585
+Budvicia_diplopodorum;Budvicia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Burkholderia_dolosa;Burkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;143338..145806;https://www.ncbi.nlm.nih.gov/protein/AYZ95613.1;https://www.ncbi.nlm.nih.gov/nuccore/1519147672
+Burkholderia_dolosa;Burkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Burkholderia_glumae;Burkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;14255..16732;https://www.ncbi.nlm.nih.gov/protein/WP_017424946.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AMQT02000010.1
+Burkholderia_glumae;Burkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Burkholderia_oklahomensis;Burkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;torA;25625..28099;https://www.ncbi.nlm.nih.gov/protein/WP_010111741.1;https://www.ncbi.nlm.nih.gov/nuccore/149146754
+Burkholderia_oklahomensis;Burkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Burkholderia_plantarii;Burkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;840;torA;158208..160730;https://www.ncbi.nlm.nih.gov/protein/WP_042626920.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_BSTO01000007.1
+Burkholderia_plantarii;Burkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Campylobacter_blaseri;Campylobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;833;CQ405_03815;70825..73326;https://www.ncbi.nlm.nih.gov/protein/PSM52190.1;https://www.ncbi.nlm.nih.gov/nuccore/1370104326
+Campylobacter_blaseri;Campylobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Campylobacter_concisus;Campylobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;855;CCON61_02280;122150..124717;https://www.ncbi.nlm.nih.gov/protein/OSQ25519.1;https://www.ncbi.nlm.nih.gov/nuccore/1187726339
+Campylobacter_concisus;Campylobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Campylobacter_hyointestinalis;Campylobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;838;CHL9752_07425;25949..28465;https://www.ncbi.nlm.nih.gov/protein/RAZ23373.1;https://www.ncbi.nlm.nih.gov/nuccore/1418759901
+Campylobacter_hyointestinalis;Campylobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Campylobacter_jejuni;Campylobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;838;B2K12_01250;244774..247290;https://www.ncbi.nlm.nih.gov/protein/AQX68754.1;https://www.ncbi.nlm.nih.gov/nuccore/1154282922
+Campylobacter_jejuni;Campylobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Canicola_haemoglobinophilus;Canicola;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;65577..68063;https://www.ncbi.nlm.nih.gov/protein/WP_078218505.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_MUXZ01000017.1
+Canicola_haemoglobinophilus;Canicola;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Cereibacter_azotoformans;Cereibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;torA;27946..30429;https://www.ncbi.nlm.nih.gov/protein/WP_101342033.1;https://www.ncbi.nlm.nih.gov/nuccore/1316716105
+Cereibacter_azotoformans;Cereibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Cereibacter_changlensis;Cereibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;16596..19064;https://www.ncbi.nlm.nih.gov/protein/WP_107664630.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PZKG01000071.1
+Cereibacter_changlensis;Cereibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Cereibacter_johrii;Cereibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;22682..25150;https://www.ncbi.nlm.nih.gov/protein/WP_069332281.1;https://www.ncbi.nlm.nih.gov/nuccore/1062695851
+Cereibacter_johrii;Cereibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Cereibacter_sphaeroides;Cereibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;107..2575;https://www.ncbi.nlm.nih.gov/protein/WP_011338998.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_WSNV01000234.1
+Cereibacter_sphaeroides;Cereibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Chelonobacter_oris;Chelonobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;831;torA;12019..14514;https://www.ncbi.nlm.nih.gov/protein/WP_200883629.1;https://www.ncbi.nlm.nih.gov/nuccore/736609629
+Chelonobacter_oris;Chelonobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Citrobacter_braakii;Citrobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;832;torA;2923..5421;https://www.ncbi.nlm.nih.gov/protein/WP_049042004.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JUKU01000128.1
+Citrobacter_braakii;Citrobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Citrobacter_freundii;Citrobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;832;torA;17779..20277;https://www.ncbi.nlm.nih.gov/protein/WP_003840074.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JATT01000055.1
+Citrobacter_freundii;Citrobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;814;torZ;2253306..2255750;https://www.ncbi.nlm.nih.gov/protein/GCB40054.1;https://www.ncbi.nlm.nih.gov/nuccore/1566712936
+Citrobacter_portucalensis;Citrobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;832;torA;194335..196833;https://www.ncbi.nlm.nih.gov/protein/WP_008785280.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAFHQC010000004.1
+Citrobacter_portucalensis;Citrobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;809;torZ;116472..118901;https://www.ncbi.nlm.nih.gov/protein/WP_337238584.1;https://www.ncbi.nlm.nih.gov/nuccore/2699320248
+Cohaesibacter_gelatinilyticus;Cohaesibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;1486..3951;https://www.ncbi.nlm.nih.gov/protein/WP_097154858.1;https://www.ncbi.nlm.nih.gov/nuccore/1254232376
+Cohaesibacter_gelatinilyticus;Cohaesibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Colwellia_psychrerythraea;Colwellia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;835;ND2E_4166;79818..82325;https://www.ncbi.nlm.nih.gov/protein/KGJ88330.1;https://www.ncbi.nlm.nih.gov/nuccore/694335114
+Colwellia_psychrerythraea;Colwellia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Consotaella_salsifontis;Consotaella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;torA;241428..243902;https://www.ncbi.nlm.nih.gov/protein/WP_078707350.1;https://www.ncbi.nlm.nih.gov/nuccore/1154794608
+Consotaella_salsifontis;Consotaella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Corticimicrobacter_populi;Corticimicrobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;836;DD235_15675;96978..99488;https://www.ncbi.nlm.nih.gov/protein/PWF21250.1;https://www.ncbi.nlm.nih.gov/nuccore/1389301729
+Corticimicrobacter_populi;Corticimicrobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Cupriavidus_agavae;Cupriavidus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;831;torA;NA;https://www.ncbi.nlm.nih.gov/protein/WP_130390425.1;https://www.ncbi.nlm.nih.gov/nuccore/1579052230
+Cupriavidus_agavae;Cupriavidus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Cupriavidus_metallidurans;Cupriavidus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;64202..66679;https://www.ncbi.nlm.nih.gov/protein/WP_011515933.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JFZD01000057.1
+Cupriavidus_metallidurans;Cupriavidus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Deefgea_piscis;Deefgea;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;829;torA;2664732..2667221;https://www.ncbi.nlm.nih.gov/protein/QKJ67450.1;https://www.ncbi.nlm.nih.gov/nuccore/1850350872
+Deefgea_piscis;Deefgea;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Deinococcus_psychrotolerans;Deinococcus;Deinococcota;Trimethylamine_N-oxide_reductase_TorA ;811;torA;283238..285673;https://www.ncbi.nlm.nih.gov/protein/AZI44214.1;https://www.ncbi.nlm.nih.gov/nuccore/1527206539
+Deinococcus_psychrotolerans;Deinococcus;Deinococcota;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Denitrobaculum_tricleocarpae;Denitrobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;225966..228437;https://www.ncbi.nlm.nih.gov/protein/TQV81776.1;https://www.ncbi.nlm.nih.gov/nuccore/ML660053.1
+Denitrobaculum_tricleocarpae;Denitrobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Edwardsiella_anguillarum;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;846;CGL57_14140;66160..68700;https://www.ncbi.nlm.nih.gov/protein/RFT02084.1;https://www.ncbi.nlm.nih.gov/nuccore/1463701971
+Edwardsiella_anguillarum;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Edwardsiella_hoshinae;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;830;torA;135829..138321;https://www.ncbi.nlm.nih.gov/protein/WP_024522424.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_BAUC01000004.1
+Edwardsiella_hoshinae;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Edwardsiella_ictaluri;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;830;B6E78_04925;1036270..1038762;https://www.ncbi.nlm.nih.gov/protein/ARD38818.1;https://www.ncbi.nlm.nih.gov/nuccore/1172554595
+Edwardsiella_ictaluri;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Edwardsiella_piscicida;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;830;torA;59196..61688;https://www.ncbi.nlm.nih.gov/protein/WP_012849114.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_BAYT01000016.1
+Edwardsiella_piscicida;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Edwardsiella_tarda;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;848;torA;217194..219740;https://www.ncbi.nlm.nih.gov/protein/WP_005281047.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_BANW01000014.1
+Edwardsiella_tarda;Edwardsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Endozoicomonas_ascidiicola;Endozoicomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;471147..473624;https://www.ncbi.nlm.nih.gov/protein/WP_067517963.1;https://www.ncbi.nlm.nih.gov/nuccore/1055989840
+Endozoicomonas_ascidiicola;Endozoicomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterobacillus_tribolii;Enterobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;834;torA;93769..96273;https://www.ncbi.nlm.nih.gov/protein/WP_115456506.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_SDGT01000017.1
+Enterobacillus_tribolii;Enterobacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterobacter_cloacae;Enterobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;773;CIW67_05970;43656..45977;https://www.ncbi.nlm.nih.gov/protein/OZU93759.1;https://www.ncbi.nlm.nih.gov/nuccore/1235604166
+Enterobacter_cloacae;Enterobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterococcus_gallinarum;Enterococcus;Firmicutes;Trimethylamine_N-oxide_reductase_TorA ;848;torA;33374..35920;https://www.ncbi.nlm.nih.gov/protein/TXJ85581.1;https://www.ncbi.nlm.nih.gov/nuccore/1725683771
+Enterococcus_gallinarum;Enterococcus;Firmicutes;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterovibrio_baiacu;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;207518..209995;https://www.ncbi.nlm.nih.gov/protein/WP_129493925.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_RQRX01000010.1
+Enterovibrio_baiacu;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterovibrio_calviensis;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;175938..178466;https://www.ncbi.nlm.nih.gov/protein/WP_028025389.1;https://www.ncbi.nlm.nih.gov/nuccore/654558360
+Enterovibrio_calviensis;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterovibrio_coralii;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;100297..102825;https://www.ncbi.nlm.nih.gov/protein/WP_067418447.1;https://www.ncbi.nlm.nih.gov/nuccore/1055828316
+Enterovibrio_coralii;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterovibrio_nigricans;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;321..2798;https://www.ncbi.nlm.nih.gov/protein/WP_078754384.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PIYP01000160.1
+Enterovibrio_nigricans;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterovibrio_norvegicus;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;96025..98502;https://www.ncbi.nlm.nih.gov/protein/WP_016959938.1;https://www.ncbi.nlm.nih.gov/nuccore/1068546933
+Enterovibrio_norvegicus;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Enterovibrio_paralichthyis;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;21687..24173;https://www.ncbi.nlm.nih.gov/protein/WP_218357284.1;https://www.ncbi.nlm.nih.gov/nuccore/2071080295
+Enterovibrio_paralichthyis;Enterovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Escherichia_albertii;Escherichia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;848;torA;26872..29418;https://www.ncbi.nlm.nih.gov/protein/WP_001062078.1;https://www.ncbi.nlm.nih.gov/nuccore/452215507
+Escherichia_albertii;Escherichia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;809;torZ;1439..3868;https://www.ncbi.nlm.nih.gov/protein/WP_000176857.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_BBMY01000022.1
+Escherichia_coli;Escherichia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;848;torA;816..3362;https://www.ncbi.nlm.nih.gov/protein/WP_001062074.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAYXSP010000009.1
+Escherichia_coli;Escherichia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;809;torZ;36371..38800;https://www.ncbi.nlm.nih.gov/protein/WP_000176756.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAVDDO010000018.1
+Escherichia_fergusonii;Escherichia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;848;torA;37513..40059;https://www.ncbi.nlm.nih.gov/protein/WP_001063154.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PTRZ01000012.1
+Escherichia_fergusonii;Escherichia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Escherichia_marmotae;Escherichia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;844;torA;37379..39913;https://www.ncbi.nlm.nih.gov/protein/WP_038355266.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_KN714338.1
+Escherichia_marmotae;Escherichia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;809;torZ;264111..266540;https://www.ncbi.nlm.nih.gov/protein/QLP29624.1;https://www.ncbi.nlm.nih.gov/nuccore/1879076490
+Exercitatus_varius;Exercitatus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;63980..66457;https://www.ncbi.nlm.nih.gov/protein/WP_317475084.1;https://www.ncbi.nlm.nih.gov/nuccore/2604927715
+Exercitatus_varius;Exercitatus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Ferrimonas_balearica;Ferrimonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;Fbal_2194;2449119..2451584;https://www.ncbi.nlm.nih.gov/protein/ADN76397.1;https://www.ncbi.nlm.nih.gov/nuccore/307629912
+Ferrimonas_balearica;Ferrimonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Gallibacterium_anatis;Gallibacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;14022..16493;https://www.ncbi.nlm.nih.gov/protein/WP_039084544.1;https://www.ncbi.nlm.nih.gov/nuccore/746007383
+Gallibacterium_anatis;Gallibacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Grimontia_celer;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;NA;https://www.ncbi.nlm.nih.gov/protein/WP_062661865.1;https://www.ncbi.nlm.nih.gov/nuccore/1011849411
+Grimontia_celer;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Grimontia_hollisae;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;195679..198156;https://www.ncbi.nlm.nih.gov/protein/WP_005504668.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_ADAQ01000012.1
+Grimontia_hollisae;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Grimontia_indica;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;127773..130301;https://www.ncbi.nlm.nih.gov/protein/WP_002535131.1;https://www.ncbi.nlm.nih.gov/nuccore/493226738
+Grimontia_indica;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Grimontia_kaedaensis;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;1643978..1646506;https://www.ncbi.nlm.nih.gov/protein/USH03852.1;https://www.ncbi.nlm.nih.gov/nuccore/2254913820
+Grimontia_kaedaensis;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Grimontia_marina;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;26175..28703;https://www.ncbi.nlm.nih.gov/protein/WP_062712973.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_FIZY01000041.1
+Grimontia_marina;Grimontia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Haemophilus_haemolyticus;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;80553..83030;https://www.ncbi.nlm.nih.gov/protein/WP_118785541.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_QQKD01000007.1
+Haemophilus_haemolyticus;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Haemophilus_influenzae;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;7628..10105;https://www.ncbi.nlm.nih.gov/protein/WP_005654511.1;https://www.ncbi.nlm.nih.gov/nuccore/1423689166
+Haemophilus_influenzae;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;825;torZ;1771501..1773978;https://www.ncbi.nlm.nih.gov/protein/309973864;https://www.ncbi.nlm.nih.gov/nuccore/CP002276.1
+Haemophilus_parahaemolyticus;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;torA;48586..51069;https://www.ncbi.nlm.nih.gov/protein/WP_005706995.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AJSW01000043.1
+Haemophilus_parahaemolyticus;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Haemophilus_parainfluenzae;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;11617..14094;https://www.ncbi.nlm.nih.gov/protein/WP_005697060.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AJMW01000004.1
+Haemophilus_parainfluenzae;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Haemophilus_paraphrohaemolyticus;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;torA;193760..196234;https://www.ncbi.nlm.nih.gov/protein/WP_005708483.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AJMU01000047.1
+Haemophilus_paraphrohaemolyticus;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Haemophilus_pittmaniae;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;41727..44204;https://www.ncbi.nlm.nih.gov/protein/WP_007242165.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AFUV01000008.1
+Haemophilus_pittmaniae;Haemophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Hafnia_alvei;Hafnia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;836;torA;199072..201582;https://www.ncbi.nlm.nih.gov/protein/WP_004097266.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JH417559.1
+Hafnia_alvei;Hafnia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Hafnia_paralvei;Hafnia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;838;torA;72660..75176;https://www.ncbi.nlm.nih.gov/protein/WP_039189623.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CAURWF010000007.1
+Hafnia_paralvei;Hafnia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Halarcobacter_anaerophilus;Halarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;CRV06_00825;161583..164066;https://www.ncbi.nlm.nih.gov/protein/RXJ64532.1;https://www.ncbi.nlm.nih.gov/nuccore/1562833996
+Halarcobacter_anaerophilus;Halarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Halarcobacter_ebronensis;Halarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;841;CRV08_13965;29702..32227;https://www.ncbi.nlm.nih.gov/protein/RXJ65949.1;https://www.ncbi.nlm.nih.gov/nuccore/1562835616
+Halarcobacter_ebronensis;Halarcobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Halomonas_alimentaria;Halomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;832;torA;150920..153418;https://www.ncbi.nlm.nih.gov/protein/WP_282040592.1;https://www.ncbi.nlm.nih.gov/nuccore/2502981585
+Halomonas_alimentaria;Halomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Halomonas_halodenitrificans;Halomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;834;torA;66669..69173;https://www.ncbi.nlm.nih.gov/protein/WP_027962583.1;https://www.ncbi.nlm.nih.gov/nuccore/654492830
+Halomonas_halodenitrificans;Halomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Halomonas_piscis;Halomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;2986457..2988943;https://www.ncbi.nlm.nih.gov/protein/WNK19928.1;https://www.ncbi.nlm.nih.gov/nuccore/2581538724
+Halomonas_piscis;Halomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Halomonas_saccharevitans;Halomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;835;torA;28482..30989;https://www.ncbi.nlm.nih.gov/protein/WP_089849899.1;https://www.ncbi.nlm.nih.gov/nuccore/1221724688
+Halomonas_saccharevitans;Halomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Histophilus_somni;Histophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;25883..28351;https://www.ncbi.nlm.nih.gov/protein/WP_011609818.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_LQFO01000049.1
+Histophilus_somni;Histophilus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Ignatzschineria_cameli;Ignatzschineria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;DC080_01650;437748..440276;https://www.ncbi.nlm.nih.gov/protein/PWD87547.1;https://www.ncbi.nlm.nih.gov/nuccore/1389060216
+Ignatzschineria_cameli;Ignatzschineria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Ignatzschineria_indica;Ignatzschineria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;DC082_02040;439788..442316;https://www.ncbi.nlm.nih.gov/protein/PWD84347.1;https://www.ncbi.nlm.nih.gov/nuccore/1389056979
+Ignatzschineria_indica;Ignatzschineria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Ignatzschineria_rhizosphaerae;Ignatzschineria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;976664..979192;https://www.ncbi.nlm.nih.gov/protein/UNM97066.1;https://www.ncbi.nlm.nih.gov/nuccore/2210236178
+Ignatzschineria_rhizosphaerae;Ignatzschineria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Ignatzschineria_ureiclastica;Ignatzschineria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;840;DC083_06530;193774..196296;https://www.ncbi.nlm.nih.gov/protein/PWD80761.1;https://www.ncbi.nlm.nih.gov/nuccore/1389053492
+Ignatzschineria_ureiclastica;Ignatzschineria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Iodobacter_ciconiae;Iodobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;829;torA;3570498..3572987;https://www.ncbi.nlm.nih.gov/protein/AZN37787.1;https://www.ncbi.nlm.nih.gov/nuccore/1537757251
+Iodobacter_ciconiae;Iodobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Klebsiella_aerogenes;Klebsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;840;torA;14555..17077;https://www.ncbi.nlm.nih.gov/protein/WP_045361411.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_WHPV01000024.1
+Klebsiella_aerogenes;Klebsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Klebsiella_pneumoniae;Klebsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;776;A4T45_23915;4836775..4839105;https://www.ncbi.nlm.nih.gov/protein/ORD43597.1;https://www.ncbi.nlm.nih.gov/nuccore/1177899282
+Klebsiella_pneumoniae;Klebsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Klebsiella_quasipneumoniae;Klebsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;776;BME90_06395;154509..156839;https://www.ncbi.nlm.nih.gov/protein/OVT78489.1;https://www.ncbi.nlm.nih.gov/nuccore/1203847551
+Klebsiella_quasipneumoniae;Klebsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Klebsiella_variicola;Klebsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;776;B8O08_10950;2197806..2200136;https://www.ncbi.nlm.nih.gov/protein/ART05411.1;https://www.ncbi.nlm.nih.gov/nuccore/1196613997
+Klebsiella_variicola;Klebsiella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Laribacter_hongkongensis;Laribacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;836;torA;109752..112262;https://www.ncbi.nlm.nih.gov/protein/WP_027823681.1;https://www.ncbi.nlm.nih.gov/nuccore/654310589
+Laribacter_hongkongensis;Laribacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Lautropia_dentalis;Lautropia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;856;torA;717617..720187;https://www.ncbi.nlm.nih.gov/protein/RRN46051.1;https://www.ncbi.nlm.nih.gov/nuccore/1531240904
+Lautropia_dentalis;Lautropia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Lautropia_mirabilis;Lautropia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;871;torA;27980..30595;https://www.ncbi.nlm.nih.gov/protein/WP_272528659.1;https://www.ncbi.nlm.nih.gov/nuccore/2440798466
+Lautropia_mirabilis;Lautropia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Leminorella_grimontii;Leminorella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;NA;NA;NA;NA;NA
+Leminorella_grimontii;Leminorella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;813;torZ;591980..594421;https://www.ncbi.nlm.nih.gov/protein/GKX54439.1;https://www.ncbi.nlm.nih.gov/nuccore/2251634847
+Limnobaculum_eriocheiris;Limnobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;839;torA;156836..159355;https://www.ncbi.nlm.nih.gov/protein/WP_230607984.1;https://www.ncbi.nlm.nih.gov/nuccore/2158332792
+Limnobaculum_eriocheiris;Limnobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Limnobaculum_parvum;Limnobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;830;HYN51_06270;2896115..2898607;https://www.ncbi.nlm.nih.gov/protein/AWH88200.1;https://www.ncbi.nlm.nih.gov/nuccore/1398251045
+Limnobaculum_parvum;Limnobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Limnobaculum_xujianqingii;Limnobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;17614..20094;https://www.ncbi.nlm.nih.gov/protein/WP_140920263.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_VFSR01000008.1
+Limnobaculum_xujianqingii;Limnobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Limnobaculum_zhutongyuii;Limnobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;830;torA;276493..278985;https://www.ncbi.nlm.nih.gov/protein/WP_130592452.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_RYXY01000001.1
+Limnobaculum_zhutongyuii;Limnobaculum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Lonepinella_koalarum;Lonepinella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;torA;50434..52917;https://www.ncbi.nlm.nih.gov/protein/WP_132302562.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_SRHX01000012.1
+Lonepinella_koalarum;Lonepinella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Malaciobacter_canalis;Malaciobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;CPG37_08630;51710..54172;https://www.ncbi.nlm.nih.gov/protein/PHO09558.1;https://www.ncbi.nlm.nih.gov/nuccore/1269585696
+Malaciobacter_canalis;Malaciobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Malaciobacter_halophilus;Malaciobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;CP960_10080;43805..46267;https://www.ncbi.nlm.nih.gov/protein/PKI80289.1;https://www.ncbi.nlm.nih.gov/nuccore/1305374183
+Malaciobacter_halophilus;Malaciobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Malaciobacter_marinus;Malaciobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;51633..54095;https://www.ncbi.nlm.nih.gov/protein/WP_079578129.1;https://www.ncbi.nlm.nih.gov/nuccore/1160720559
+Malaciobacter_marinus;Malaciobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Malaciobacter_molluscorum;Malaciobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;148136..150622;https://www.ncbi.nlm.nih.gov/protein/WP_099341456.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_NXFY01000002.1
+Malaciobacter_molluscorum;Malaciobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Mannheimia_bovis;Mannheimia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;torA;1568971..1571454;https://www.ncbi.nlm.nih.gov/protein/QNS14654.1;https://www.ncbi.nlm.nih.gov/nuccore/1904657167
+Mannheimia_bovis;Mannheimia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Mannheimia_granulomatis;Mannheimia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;45377..47842;https://www.ncbi.nlm.nih.gov/protein/WP_027073692.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JHZD01000008.1
+Mannheimia_granulomatis;Mannheimia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Mannheimia_haemolytica;Mannheimia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;14372..16858;https://www.ncbi.nlm.nih.gov/protein/WP_006248615.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAPZQI010000021.1
+Mannheimia_haemolytica;Mannheimia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;828;torZ;1902772..1905258;https://www.ncbi.nlm.nih.gov/protein/481065249;https://www.ncbi.nlm.nih.gov/nuccore/CP005383.1
+Mannheimia_varigena;Mannheimia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;170810..173275;https://www.ncbi.nlm.nih.gov/protein/WP_025216530.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_VCDS01000015.1
+Mannheimia_varigena;Mannheimia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Mergibacter_septicus;Mergibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;1546280..1548751;https://www.ncbi.nlm.nih.gov/protein/AWX14320.1;https://www.ncbi.nlm.nih.gov/nuccore/1409196290
+Mergibacter_septicus;Mergibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Mesorhizobium_plurifarium;Mesorhizobium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;NA;NA;NA;NA;NA
+Mesorhizobium_plurifarium;Mesorhizobium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;784;torZ;29928..32282;https://www.ncbi.nlm.nih.gov/protein/CDX45789.1;https://www.ncbi.nlm.nih.gov/nuccore/685095165
+Mixta_calida;Mixta;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;C2E16_13940;2922372..2924849;https://www.ncbi.nlm.nih.gov/protein/AUY25903.1;https://www.ncbi.nlm.nih.gov/nuccore/1338961724
+Mixta_calida;Mixta;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Mixta_theicola;Mixta;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;COO59_08580;101260..103737;https://www.ncbi.nlm.nih.gov/protein/PNS12031.1;https://www.ncbi.nlm.nih.gov/nuccore/1333713083
+Mixta_theicola;Mixta;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Moritella_marina;Moritella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;837;torA;60053..62566;https://www.ncbi.nlm.nih.gov/protein/WP_019628956.1;https://www.ncbi.nlm.nih.gov/nuccore/485055804
+Moritella_marina;Moritella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Moritella_viscosa;Moritella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;837;torA;27046..29559;https://www.ncbi.nlm.nih.gov/protein/WP_045108686.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_FRDR01000108.1
+Moritella_viscosa;Moritella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Moritella_yayanosii;Moritella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;835;torA;2806828..2809335;https://www.ncbi.nlm.nih.gov/protein/SQD79235.1;https://www.ncbi.nlm.nih.gov/nuccore/1408601627
+Moritella_yayanosii;Moritella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Motilimonas_pumila;Motilimonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;71648..74113;https://www.ncbi.nlm.nih.gov/protein/RJG50464.1;https://www.ncbi.nlm.nih.gov/nuccore/1481376895
+Motilimonas_pumila;Motilimonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Motiliproteus_coralliicola;Motiliproteus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;246212..248677;https://www.ncbi.nlm.nih.gov/protein/RDE18936.1;https://www.ncbi.nlm.nih.gov/nuccore/1435368808
+Motiliproteus_coralliicola;Motiliproteus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Neisseria_iguanae;Neisseria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;841;C7N83_06270;12856..15381;https://www.ncbi.nlm.nih.gov/protein/PSJ80447.1;https://www.ncbi.nlm.nih.gov/nuccore/1368118354
+Neisseria_iguanae;Neisseria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Neisseria_zalophi;Neisseria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;846;torA;848216..850756;https://www.ncbi.nlm.nih.gov/protein/QEY25769.1;https://www.ncbi.nlm.nih.gov/nuccore/1755653063
+Neisseria_zalophi;Neisseria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Obesumbacterium_proteus;Obesumbacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;838;torA;102916..105432;https://www.ncbi.nlm.nih.gov/protein/WP_046458050.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CALLOF010000024.1
+Obesumbacterium_proteus;Obesumbacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Oceanimonas_baumannii;Oceanimonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;28047..30515;https://www.ncbi.nlm.nih.gov/protein/OYD21322.1;https://www.ncbi.nlm.nih.gov/nuccore/1229458211
+Oceanimonas_baumannii;Oceanimonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Oceanimonas_pelagia;Oceanimonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;1216652..1219123;https://www.ncbi.nlm.nih.gov/protein/WMC11870.1;https://www.ncbi.nlm.nih.gov/nuccore/2566897148
+Oceanimonas_pelagia;Oceanimonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Oceanisphaera_profunda;Oceanisphaera;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;827;CBP31_14170;3205871..3208354;https://www.ncbi.nlm.nih.gov/protein/ART83634.1;https://www.ncbi.nlm.nih.gov/nuccore/1198035737
+Oceanisphaera_profunda;Oceanisphaera;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Oceanithermus_desulfurans;Oceanithermus;Deinococcota;Trimethylamine_N-oxide_reductase_TorA ;832;torA;12173..14671;https://www.ncbi.nlm.nih.gov/protein/WP_147148818.1;https://www.ncbi.nlm.nih.gov/nuccore/1891414883
+Oceanithermus_desulfurans;Oceanithermus;Deinococcota;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Oligella_ureolytica;Oligella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;849;torA;53315..55864;https://www.ncbi.nlm.nih.gov/protein/WP_018575701.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_KB892368.1
+Oligella_ureolytica;Oligella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Oligella_urethralis;Oligella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;846;torA;43127..45667;https://www.ncbi.nlm.nih.gov/protein/WP_018026980.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AQVB01000014.1
+Oligella_urethralis;Oligella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pantoea_alhagi;Pantoea;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;2780887..2783364;https://www.ncbi.nlm.nih.gov/protein/URQ59670.1;https://www.ncbi.nlm.nih.gov/nuccore/2249018036
+Pantoea_alhagi;Pantoea;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pantoea_coffeiphila;Pantoea;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;CQW29_15440;64123..66597;https://www.ncbi.nlm.nih.gov/protein/PRD14560.1;https://www.ncbi.nlm.nih.gov/nuccore/1355733103
+Pantoea_coffeiphila;Pantoea;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Paraburkholderia_dinghuensis;Paraburkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;97663..100140;https://www.ncbi.nlm.nih.gov/protein/RQH04422.1;https://www.ncbi.nlm.nih.gov/nuccore/1522898116
+Paraburkholderia_dinghuensis;Paraburkholderia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Parendozoicomonas_callyspongiae;Parendozoicomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;19160..21646;https://www.ncbi.nlm.nih.gov/protein/WP_249699039.1;https://www.ncbi.nlm.nih.gov/nuccore/2241400561
+Parendozoicomonas_callyspongiae;Parendozoicomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pasteurella_atlantica;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;576562..579042;https://www.ncbi.nlm.nih.gov/protein/QVE21304.1;https://www.ncbi.nlm.nih.gov/nuccore/2035723258
+Pasteurella_atlantica;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pasteurella_canis;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;201247..203733;https://www.ncbi.nlm.nih.gov/protein/WP_115322787.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_BQFX01000001.1
+Pasteurella_canis;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pasteurella_dagmatis;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;345147..347633;https://www.ncbi.nlm.nih.gov/protein/492146748;https://www.ncbi.nlm.nih.gov/nuccore/NZ_GG704810.1
+Pasteurella_dagmatis;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pasteurella_multocida;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;28664..31135;https://www.ncbi.nlm.nih.gov/protein/WP_005718988.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAWWTW010000002.1
+Pasteurella_multocida;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pasteurella_skyensis;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;13793..16273;https://www.ncbi.nlm.nih.gov/protein/WP_090922723.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JASAVS010000023.1
+Pasteurella_skyensis;Pasteurella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_angustum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;1024..3552;https://www.ncbi.nlm.nih.gov/protein/WP_005368227.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PYOW01000007.1
+Photobacterium_angustum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_aphoticum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;843;torA;41050..43581;https://www.ncbi.nlm.nih.gov/protein/WP_047872636.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PYMF01000011.1
+Photobacterium_aphoticum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_aquimaris;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;60121..62601;https://www.ncbi.nlm.nih.gov/protein/WP_060996532.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PYLY01000003.1
+Photobacterium_aquimaris;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_carnosum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;62418..64886;https://www.ncbi.nlm.nih.gov/protein/PLC56744.1;https://www.ncbi.nlm.nih.gov/nuccore/1318492382
+Photobacterium_carnosum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_chitinilyticum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;381215..383695;https://www.ncbi.nlm.nih.gov/protein/RWX55442.1;https://www.ncbi.nlm.nih.gov/nuccore/1559943815
+Photobacterium_chitinilyticum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_damselae;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;843;torA;2247..4778;https://www.ncbi.nlm.nih.gov/protein/WP_005299651.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAIXHX010000074.1
+Photobacterium_damselae;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_frigidiphilum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;39548..42010;https://www.ncbi.nlm.nih.gov/protein/PSU45393.1;https://www.ncbi.nlm.nih.gov/nuccore/1372380551
+Photobacterium_frigidiphilum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_gaetbulicola;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;843;torA;2247..4778;https://www.ncbi.nlm.nih.gov/protein/WP_039456607.1;https://www.ncbi.nlm.nih.gov/nuccore/746415571
+Photobacterium_gaetbulicola;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_ganghwense;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;828;torA;762..3248;https://www.ncbi.nlm.nih.gov/protein/WP_047885309.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_LDOU01000012.1
+Photobacterium_ganghwense;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_iliopiscarium;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;36982..39462;https://www.ncbi.nlm.nih.gov/protein/WP_045035555.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JZSR01000002.1
+Photobacterium_iliopiscarium;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_indicum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;825;torA;123711..126188;https://www.ncbi.nlm.nih.gov/protein/PSV44465.1;https://www.ncbi.nlm.nih.gov/nuccore/1372481984
+Photobacterium_indicum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_kishitanii;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;30533..33061;https://www.ncbi.nlm.nih.gov/protein/WP_036794304.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PYNL01000026.1
+Photobacterium_kishitanii;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_leiognathi;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;C0W80_19085;30110..32638;https://www.ncbi.nlm.nih.gov/protein/PSU94838.1;https://www.ncbi.nlm.nih.gov/nuccore/1372431412
+Photobacterium_leiognathi;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_lipolyticum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;843;C9I89_16590;70845..73376;https://www.ncbi.nlm.nih.gov/protein/PSW03747.1;https://www.ncbi.nlm.nih.gov/nuccore/1372542802
+Photobacterium_lipolyticum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_lutimaris;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;161914..164376;https://www.ncbi.nlm.nih.gov/protein/PSU34253.1;https://www.ncbi.nlm.nih.gov/nuccore/1372368963
+Photobacterium_lutimaris;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_phosphoreum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;20329..22809;https://www.ncbi.nlm.nih.gov/protein/WP_045026500.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PYMR01000045.1
+Photobacterium_phosphoreum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_piscicola;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;404110..406638;https://www.ncbi.nlm.nih.gov/protein/WP_080157637.1;https://www.ncbi.nlm.nih.gov/nuccore/1167856232
+Photobacterium_piscicola;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_profundum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;843;torA;17098..19629;https://www.ncbi.nlm.nih.gov/protein/WP_006232200.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PYOD01000009.1
+Photobacterium_profundum;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_rosenbergii;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;819;torA;89341..91800;https://www.ncbi.nlm.nih.gov/protein/PSW08737.1;https://www.ncbi.nlm.nih.gov/nuccore/1372547865
+Photobacterium_rosenbergii;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_sanguinicancri;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;842;torA;53128..55656;https://www.ncbi.nlm.nih.gov/protein/WP_062690525.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CANMLA010000009.1
+Photobacterium_sanguinicancri;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Photobacterium_toruni;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;465140..467620;https://www.ncbi.nlm.nih.gov/protein/WP_080173229.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_FUWP01000001.1
+Photobacterium_toruni;Photobacterium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Plesiomonas_shigelloides;Plesiomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;859;torA;10176..12755;https://www.ncbi.nlm.nih.gov/protein/WP_052241981.1;https://www.ncbi.nlm.nih.gov/nuccore/743528309
+Plesiomonas_shigelloides;Plesiomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pragia_fontium;Pragia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;839;torA;16573..19092;https://www.ncbi.nlm.nih.gov/protein/WP_047781963.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_SPND01000012.1
+Pragia_fontium;Pragia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Providencia_rettgeri;Providencia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;848;CHI95_07870;41879..44425;https://www.ncbi.nlm.nih.gov/protein/OZS75058.1;https://www.ncbi.nlm.nih.gov/nuccore/1235379022
+Providencia_rettgeri;Providencia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pseudovibrio_ascidiaceicola;Pseudovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;340724..343195;https://www.ncbi.nlm.nih.gov/protein/WP_093518382.1;https://www.ncbi.nlm.nih.gov/nuccore/1225515848
+Pseudovibrio_ascidiaceicola;Pseudovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pseudovibrio_brasiliensis;Pseudovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;811;torA;22146..24581;https://www.ncbi.nlm.nih.gov/protein/WP_075701709.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_MIEL01000038.1
+Pseudovibrio_brasiliensis;Pseudovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Pseudovibrio_denitrificans;Pseudovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;811;torA;327557..329992;https://www.ncbi.nlm.nih.gov/protein/WP_054782818.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_BAZK01000002.1
+Pseudovibrio_denitrificans;Pseudovibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rhodobacter_capsulatus;Rhodobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;36975..39446;https://www.ncbi.nlm.nih.gov/protein/WP_013068552.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAOTPJ010000063.1
+Rhodobacter_capsulatus;Rhodobacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rhodobium_gokarnense;Rhodobium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;472803..475265;https://www.ncbi.nlm.nih.gov/protein/2325268075;https://www.ncbi.nlm.nih.gov/nuccore/2325271671
+Rhodobium_gokarnense;Rhodobium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rhodobium_orientis;Rhodobium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;807;CH339_03110;18855..21278;https://www.ncbi.nlm.nih.gov/protein/RAI29290.1;https://www.ncbi.nlm.nih.gov/nuccore/1407402597
+Rhodobium_orientis;Rhodobium;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rhodopseudomonas_palustris;Rhodopseudomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;DNX69_15530;648817..651288;https://www.ncbi.nlm.nih.gov/protein/PZA10757.1;https://www.ncbi.nlm.nih.gov/nuccore/1401982294
+Rhodopseudomonas_palustris;Rhodopseudomonas;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rhodospirillum_rubrum;Rhodospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;35869..38340;https://www.ncbi.nlm.nih.gov/protein/WP_200290384.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_NRSC01000020.1
+Rhodospirillum_rubrum;Rhodospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rhodovastum_atsumiense;Rhodovastum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;46124..48592;https://www.ncbi.nlm.nih.gov/protein/KAA5612553.1;https://www.ncbi.nlm.nih.gov/nuccore/1746876769
+Rhodovastum_atsumiense;Rhodovastum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rhodovulum_sulfidophilum;Rhodovulum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;819;torA;49513..51972;https://www.ncbi.nlm.nih.gov/protein/WP_042465859.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP015420.1
+Rhodovulum_sulfidophilum;Rhodovulum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rodentibacter_caecimuris;Rodentibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;13962..16442;https://www.ncbi.nlm.nih.gov/protein/WP_059366600.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_MLAD01000072.1
+Rodentibacter_caecimuris;Rodentibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rodentibacter_haemolyticus;Rodentibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;831;torA;1843121..1845616;https://www.ncbi.nlm.nih.gov/protein/QPB41999.1;https://www.ncbi.nlm.nih.gov/nuccore/1931121878
+Rodentibacter_haemolyticus;Rodentibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rodentibacter_pneumotropicus;Rodentibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;4835..7315;https://www.ncbi.nlm.nih.gov/protein/WP_018356759.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_QXNE01000068.1
+Rodentibacter_pneumotropicus;Rodentibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Rodentibacter_ratti;Rodentibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;14914..17394;https://www.ncbi.nlm.nih.gov/protein/WP_077436086.1;https://www.ncbi.nlm.nih.gov/nuccore/1148698477
+Rodentibacter_ratti;Rodentibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Ruegeria_arenilitoris;Ruegeria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;562470..564935;https://www.ncbi.nlm.nih.gov/protein/WP_170476333.1;https://www.ncbi.nlm.nih.gov/nuccore/1840805798
+Ruegeria_arenilitoris;Ruegeria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Ruegeria_conchae;Ruegeria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;15285..17750;https://www.ncbi.nlm.nih.gov/protein/WP_010437835.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AEYW01000003.1
+Ruegeria_conchae;Ruegeria;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Salipiger_aestuarii;Salipiger;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;2643..5108;https://www.ncbi.nlm.nih.gov/protein/WP_009502599.1;https://www.ncbi.nlm.nih.gov/nuccore/1752100478
+Salipiger_aestuarii;Salipiger;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Salmonella_bongori;Salmonella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;850;torA;28547..31099;https://www.ncbi.nlm.nih.gov/protein/WP_000790695.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_MXOD01000035.1
+Salmonella_bongori;Salmonella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Salmonella_enterica;Salmonella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;850;torA;72328..74880;https://www.ncbi.nlm.nih.gov/protein/RXO63331.1;https://www.ncbi.nlm.nih.gov/nuccore/1564515782
+Salmonella_enterica;Salmonella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Serratia_liquefaciens;Serratia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;844;torA;9495..12029;https://www.ncbi.nlm.nih.gov/protein/WP_020824871.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAQNAS010000019.1
+Serratia_liquefaciens;Serratia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Serratia_marcescens;Serratia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;torA;303564..306038;https://www.ncbi.nlm.nih.gov/protein/WP_033639844.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAVRHJ010000049.1
+Serratia_marcescens;Serratia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Serratia_ureilytica;Serratia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;824;CU560_04135;871133..873607;https://www.ncbi.nlm.nih.gov/protein/PKR37721.1;https://www.ncbi.nlm.nih.gov/nuccore/1315030427
+Serratia_ureilytica;Serratia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Shewanella_algae;Shewanella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;829;torA;76038..78527;https://www.ncbi.nlm.nih.gov/protein/WP_044733939.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JADZHB010000012.1
+Shewanella_algae;Shewanella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Shewanella_baltica;Shewanella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;829;torA;107882..110371;https://www.ncbi.nlm.nih.gov/protein/WP_063882615.1;https://www.ncbi.nlm.nih.gov/nuccore/1028132913
+Shewanella_baltica;Shewanella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Shewanella_xiamenensis;Shewanella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;829;SXM_1063;7606..10095;https://www.ncbi.nlm.nih.gov/protein/KEK29306.1;https://www.ncbi.nlm.nih.gov/nuccore/659915860
+Shewanella_xiamenensis;Shewanella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Shigella_boydii;Shigella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;848;torA;11858..14404;https://www.ncbi.nlm.nih.gov/protein/WP_001063112.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AKNA01000057.1
+Shigella_boydii;Shigella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;809;torZ;1718..4147;https://www.ncbi.nlm.nih.gov/protein/WP_039065002.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_QXHH01000247.1
+Shigella_dysenteriae;Shigella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;846;torA;1321..3861;https://www.ncbi.nlm.nih.gov/protein/WP_001063165.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_PUGT01000137.1
+Shigella_dysenteriae;Shigella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;809;torZ;19563..21992;https://www.ncbi.nlm.nih.gov/protein/WP_119170136.1;https://www.ncbi.nlm.nih.gov/nuccore/1477522318
+Shigella_flexneri;Shigella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;846;torA;3435..5975;https://www.ncbi.nlm.nih.gov/protein/WP_025746156.1;https://www.ncbi.nlm.nih.gov/nuccore/647304973
+Shigella_flexneri;Shigella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;809;torZ;4297..6726;https://www.ncbi.nlm.nih.gov/protein/WP_005069116.1;https://www.ncbi.nlm.nih.gov/nuccore/1969925553
+Shigella_sonnei;Shigella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;796;CBL17_19215;109..2499;https://www.ncbi.nlm.nih.gov/protein/OUZ92087.1;https://www.ncbi.nlm.nih.gov/nuccore/1201180554
+Shigella_sonnei;Shigella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;809;torZ;3066..5495;https://www.ncbi.nlm.nih.gov/protein/WP_000176753.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAACXM010000116.1
+Siculibacillus_lacustris;Siculibacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;179647..182118;https://www.ncbi.nlm.nih.gov/protein/TBW38772.1;https://www.ncbi.nlm.nih.gov/nuccore/1585942053
+Siculibacillus_lacustris;Siculibacillus;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Sulfurospirillum_arsenophilum;Sulfurospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;848;torA;415426..417972;https://www.ncbi.nlm.nih.gov/protein/WP_084218430.1;https://www.ncbi.nlm.nih.gov/nuccore/754563764
+Sulfurospirillum_arsenophilum;Sulfurospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Sulfurospirillum_cavolei;Sulfurospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;849;CFH80_09480;5542..8091;https://www.ncbi.nlm.nih.gov/protein/DAB35564.1;https://www.ncbi.nlm.nih.gov/nuccore/1273494235
+Sulfurospirillum_cavolei;Sulfurospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Sulfurospirillum_deleyianum;Sulfurospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;NA;https://www.ncbi.nlm.nih.gov/protein/WP_012856537.1;https://www.ncbi.nlm.nih.gov/nuccore/268678642
+Sulfurospirillum_deleyianum;Sulfurospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Sulfurospirillum_diekertiae;Sulfurospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;822;torA;NA;https://www.ncbi.nlm.nih.gov/protein/WP_096046149.1;https://www.ncbi.nlm.nih.gov/nuccore/1243954524
+Sulfurospirillum_diekertiae;Sulfurospirillum;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Sutterella_faecalis;Sutterella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;800;FG381_02400;605700..608102;https://www.ncbi.nlm.nih.gov/protein/QDA53890.1;https://www.ncbi.nlm.nih.gov/nuccore/1682008517
+Sutterella_faecalis;Sutterella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Tardiphaga_alba;Tardiphaga;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;836;torA;3337896..3340406;https://www.ncbi.nlm.nih.gov/protein/QUS40087.1;https://www.ncbi.nlm.nih.gov/nuccore/2032465079
+Tardiphaga_alba;Tardiphaga;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Testudinibacter_aquarius;Testudinibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;829;torA;22690..25179;https://www.ncbi.nlm.nih.gov/protein/TNG93480.1;https://www.ncbi.nlm.nih.gov/nuccore/1680298924
+Testudinibacter_aquarius;Testudinibacter;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Thauera_aminoaromatica;Thauera;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;838;torA;5498..8014;https://www.ncbi.nlm.nih.gov/protein/WP_276660293.1;https://www.ncbi.nlm.nih.gov/nuccore/2468240022
+Thauera_aminoaromatica;Thauera;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Thauera_humireducens;Thauera;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;839;torA;3890117..3892636;https://www.ncbi.nlm.nih.gov/protein/CAH1748952.1;https://www.ncbi.nlm.nih.gov/nuccore/2452958679
+Thauera_humireducens;Thauera;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Thauera_propionica;Thauera;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;839;CGK74_07925;414876..417395;https://www.ncbi.nlm.nih.gov/protein/OYD54755.1;https://www.ncbi.nlm.nih.gov/nuccore/1229499204
+Thauera_propionica;Thauera;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Veronia_nyctiphanis;Veronia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;843;CS022_05485;133701..136232;https://www.ncbi.nlm.nih.gov/protein/RXJ74089.1;https://www.ncbi.nlm.nih.gov/nuccore/1562843858
+Veronia_nyctiphanis;Veronia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Veronia_pacifica;Veronia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;117831..120296;https://www.ncbi.nlm.nih.gov/protein/WP_068898117.1;https://www.ncbi.nlm.nih.gov/nuccore/1057623344
+Veronia_pacifica;Veronia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Vibrio_aestuarianus;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;61102..63564;https://www.ncbi.nlm.nih.gov/protein/1847619175;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAAKZJ010000006.1
+Vibrio_aestuarianus;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;815;torZ;368402..370849;https://www.ncbi.nlm.nih.gov/protein/CAH8195536.1;https://www.ncbi.nlm.nih.gov/nuccore/2274804562
+Vibrio_chagasii;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;42886..45348;https://www.ncbi.nlm.nih.gov/protein/KAB0479492.1;https://www.ncbi.nlm.nih.gov/nuccore/1754788887
+Vibrio_chagasii;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;815;torZ;246700..249147;https://www.ncbi.nlm.nih.gov/protein/CAH7416948.1;https://www.ncbi.nlm.nih.gov/nuccore/2261608771
+Vibrio_cholerae;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;29933..32395;https://www.ncbi.nlm.nih.gov/protein/WP_001018811.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_VSIG01000101.1
+Vibrio_cholerae;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Vibrio_crassostreae;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;80933..83395;https://www.ncbi.nlm.nih.gov/protein/WP_017068070.1;https://www.ncbi.nlm.nih.gov/nuccore/1068558148
+Vibrio_crassostreae;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;815;torZ;238366..240813;https://www.ncbi.nlm.nih.gov/protein/CAK3385154.1;https://www.ncbi.nlm.nih.gov/nuccore/CAVLVA010000022.1
+Vibrio_harveyi;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;5890..8352;https://www.ncbi.nlm.nih.gov/protein/EKM14416.1;https://www.ncbi.nlm.nih.gov/nuccore/AJSQ01000143.1
+Vibrio_harveyi;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;815;torZ;306267..308714;https://www.ncbi.nlm.nih.gov/protein/CAH1588094.1;https://www.ncbi.nlm.nih.gov/nuccore/2583253953
+Vibrio_jasicida;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;128065..130527;https://www.ncbi.nlm.nih.gov/protein/WP_042601840.1;https://www.ncbi.nlm.nih.gov/nuccore/779960445
+Vibrio_jasicida;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;815;torZ;15277..17724;https://www.ncbi.nlm.nih.gov/protein/CAH1606426.1;https://www.ncbi.nlm.nih.gov/nuccore/2583268029
+Vibrio_owensii;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;821;torA;200347..202812;https://www.ncbi.nlm.nih.gov/protein/WP_020194959.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_BAOH01000009.1
+Vibrio_owensii;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;815;torZ;13771..16218;https://www.ncbi.nlm.nih.gov/protein/CAH1564817.1;https://www.ncbi.nlm.nih.gov/nuccore/2583278802
+Vibrio_parahaemolyticus;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;181609..184071;https://www.ncbi.nlm.nih.gov/protein/WP_021449270.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_MPPR01000001.1
+Vibrio_parahaemolyticus;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Vibrio_splendidus;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;4257..6719;https://www.ncbi.nlm.nih.gov/protein/WP_017086202.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AJZI02000001.1
+Vibrio_splendidus;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Vibrio_vulnificus;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;820;torA;52475..54937;https://www.ncbi.nlm.nih.gov/protein/WP_011080716.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAKNPO010000330.1
+Vibrio_vulnificus;Vibrio;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Wolinella_succinogenes;Wolinella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;848;torA;30101..32647;https://www.ncbi.nlm.nih.gov/protein/WP_273062193.1;https://www.ncbi.nlm.nih.gov/nuccore/2443413608
+Wolinella_succinogenes;Wolinella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_aldovae;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;19144..21624;https://www.ncbi.nlm.nih.gov/protein/WP_049596133.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CABHPY010000139.1
+Yersinia_aldovae;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_alsatica;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;10509..12989;https://www.ncbi.nlm.nih.gov/protein/WP_050106202.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CABHWR010000283.1
+Yersinia_alsatica;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_bercovieri;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;56224..58704;https://www.ncbi.nlm.nih.gov/protein/WP_005274494.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AALC02000020.1
+Yersinia_bercovieri;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_enterocolitica;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;12805..15285;https://www.ncbi.nlm.nih.gov/protein/WP_005161808.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAUEHT010000062.1
+Yersinia_enterocolitica;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_frederiksenii;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;8561..11041;https://www.ncbi.nlm.nih.gov/protein/WP_004710828.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CAWRHD010000013.1
+Yersinia_frederiksenii;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_intermedia;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;14978..17458;https://www.ncbi.nlm.nih.gov/protein/WP_005193041.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_CTKY01000037.1
+Yersinia_intermedia;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_kristensenii;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;9831..12311;https://www.ncbi.nlm.nih.gov/protein/WP_004389505.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAQIRT010000058.1
+Yersinia_kristensenii;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_mollaretii;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;108928..111408;https://www.ncbi.nlm.nih.gov/protein/WP_004874752.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_AALD02000011.1
+Yersinia_mollaretii;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Yersinia_ruckeri;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;826;torA;28589..31069;https://www.ncbi.nlm.nih.gov/protein/WP_004720905.1;https://www.ncbi.nlm.nih.gov/nuccore/NZ_JAQISB010000022.1
+Yersinia_ruckeri;Yersinia;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA
+Zobellella_taiwanensis;Zobellella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorA ;823;torA;136998..139469;https://www.ncbi.nlm.nih.gov/protein/PSJ46922.1;https://www.ncbi.nlm.nih.gov/nuccore/1367554920
+Zobellella_taiwanensis;Zobellella;Proteobacteria;Trimethylamine_N-oxide_reductase_TorZ;NA;NA;NA;NA;NA

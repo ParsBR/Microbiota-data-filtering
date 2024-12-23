@@ -1,0 +1,21 @@
+specie;genus;phylum;protein_name;aa_quantity;gene_name_locus_tag;gene_position;link;gene_genome
+Cupriavidus_neocaledonicus;Cupriavidus;Proteobacteria;Ergothionase;557;CBM2605_B40052;42546..44219;https://www.ncbi.nlm.nih.gov/protein/SOZ39721.1;https://www.ncbi.nlm.nih.gov/nuccore/OFTC01000043.1
+Cupriavidus_taiwanensis ;Cupriavidus;Proteobacteria;Ergothionase;559;CBM2634_B190007;7175..8854;https://www.ncbi.nlm.nih.gov/protein/SPS01173.1;https://www.ncbi.nlm.nih.gov/nuccore/OVTA01000042.1
+NA;Burkholderia;Proteobacteria;Ergothionase_precursor;544;AB699692;1..2050;https://www.ncbi.nlm.nih.gov/protein/BAM63550.1;https://www.ncbi.nlm.nih.gov/nuccore/410067716
+NA;Paenibacillus;Firmicutes;Urocanate_hydratase_Ergothioneine_Catabolism;546;PRK05414;NA;https://www.ncbi.nlm.nih.gov/protein/1995041642;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_A;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7Q_A;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_B;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/1706831232;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_C;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7Q_C;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_D;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7Q_D;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_E;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7Q_E;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_F;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7Q_F;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_G;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7Q_G;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_H;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7Q_H;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_A;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7J_A;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_B;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7J_B;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_C;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7J_C;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_D;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7J_D;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_E;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7J_E;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_F;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7J_F;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_G;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7J_G;NA
+Treponema_denticola;Treponema;Spirochaetota;Ergothionase_Chain_H;497;NA;NA;https://www.ncbi.nlm.nih.gov/protein/6S7J_H;NA
